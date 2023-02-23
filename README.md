@@ -1,6 +1,8 @@
 # GOOGLE-MERCHANDISE-STORE
 ## This project is to perform an analysis of the “Google Merchandise Store” website using Google Analytics and make dashboards on Google Data Studio by answering the questions given below.
 
+## A. Google Analytics: 
+
 ### 1. Plot a chart showing the comparison of transactions, E-Commerce Conversion Rate and revenue in the month of November, 2022 with respect to the previous month i.e. October, 2022. 
 
 a. What is the highest transactions, E-Commerce Conversion Rate and revenue in the month of November, 2022 and on which dates? 
