@@ -60,4 +60,62 @@ b. What is the number of new users in the last 14 days and what is the revenue g
 
 ### 4. Plot a chart showing the Bounce rates for different countries over a specific period of time. Also show different metrics such as total users, new users,  conversion rate per user, time on screen, Average price, Order value etc. for different countries.
 
+## LINK OF DASHBOARD A: GOOGLE MARKET ANALYSIS:
+
+## https://lookerstudio.google.com/reporting/ece08a0b-ef10-4e63-b8fc-8810931bb3c0 
+
 ![COHORT_ANALYTICS (1)_page-0001](https://user-images.githubusercontent.com/111070329/221005511-ddd45aee-0153-4931-a08c-4f6522da7cf5.jpg)
+
+
+## C. Funnel Analytics:
+
+## Prepare a funnel overview with 5 parts - Acquisition, Activation,   Retention, Revenue, Referral, Funnel Visualization. Add different charts and graphs showing the following metrics:
+
+
+
+### 1. *Acquisition*:
+
+a. The number of sessions and bounce rate for each channel.
+
+b. The number of visitors and returning visitors for each channel.
+
+c. Total users and session showing comparison with respect to the previous month.
+
+
+### 2. *Activation:*
+
+a. What is the Bounce rate, Pages/Session and Average Session Duration for all users?
+
+b. Number of Registrations, Engaged Users and its conversion rates
+
+### 3. *Retention*:
+
+a. What is the number of returning users and its bounce rate?
+
+b. The number of transactions made for each session for returning users.
+
+
+### 4. *Revenue*:
+
+a. What is the total revenue, Total transactions, Revenue per user, E-Commerce Conversion Rate, and Product revenue per purchase for all users.
+
+b. Quantity bought for each product.
+
+
+### 5. *Referral*:
+
+a. What is the number of sessions and Bounce rate for the referral users?
+
+b. Number of sessions for each referral.
+
+
+### 6. *Funnel Visualization:*
+
+Add a Metric Funnel under Community visualisations in Data Studio showing the following processes in the  funnel:
+Total Engaged Users - Users who completed the registrations - Users who added items to card - Users who entered Checkout - users who completed Payment.
+(You can refer to the funnel visualization topic from this link - https://analytics.google.com/analytics/web/?utm_source=demoaccount&utm_medium=demoaccount&utm_campaign=demoaccount#/report/conversions-goal-funnel/a54516992w87479473p92320289/ )
+ 
+![FUNNEL_ANALYTICS_page-0001](https://user-images.githubusercontent.com/111070329/221006642-c4b91048-ef48-4dc5-8843-3a05f1df461a.jpg)
+ 
+
+
