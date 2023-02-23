@@ -31,6 +31,9 @@ b. From which age group is the lowest revenue generated in the year 2022?
 
 c. What is the percentage of revenue generated for the age group 18-24?
 
+
+
+
 ### 4. For different landing pages, Show the number of transactions, E-Commerce Conversion Rate and revenue  with respect to the last period.
 
 a. What is the total number of landing pages for the last quarter?    
@@ -56,3 +59,5 @@ b. What is the number of new users in the last 14 days and what is the revenue g
 ### 3. Plot a chart showing the grand total conversion rate for different user categories for 30 days in a month.
 
 ### 4. Plot a chart showing the Bounce rates for different countries over a specific period of time. Also show different metrics such as total users, new users,  conversion rate per user, time on screen, Average price, Order value etc. for different countries.
+
+![COHORT_ANALYTICS (1)_page-0001](https://user-images.githubusercontent.com/111070329/221005511-ddd45aee-0153-4931-a08c-4f6522da7cf5.jpg)
